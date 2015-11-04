@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Wind Speed Calculator</string>
+    <string name="button">Generate</string>
+    <string name="selectFrom">Choose units to convert from</string>
+    <string name="selectTo">Choose units to convert to</string>
+    <string name="fromLabel">From</string>
+    <string name="toLabel">To</string>
+    <string name="speedLabel">Speed</string>
+    <string name="unitButton">Units</string>
+    <string name="convertButton">Convert</string>
+    <string name="okButton">OK</string>
+    <string name="speedHint">Speed</string>
+    <string name="resultString">Result of conversion:</string>
+    <string name="optionsButton">Options</string>
+    <string name="optionsDialogTitle">Options</string>
+    <string name="optionsDialogMessage">What would you like to do now?</string>
+    <string name="optionsDialogNeutral">Send</string>
+    <string name="optionsDialogPositive">Details</string>
+    <string name="optionsDialogNegative">Again</string>
+    <string name="fromResultText">"From: "</string>
+    <string name="toResultText">"To: "</string>
+    <string name="speedDialogTitle">No Speed</string>
+    <string name="speedDialogMessage">You have not entered the speed!</string>
+    <string name="speedDialogButton">OK</string>
+    <string name="unitDialogTitle">Units</string>
+    <string name="unitDialogMessage">You have chosen the same speeds for \'From\' and \'To\', please change one to continue.</string>
+    <string name="unitDialogButton">OK</string>
+    <string name="notification_title">Wind Speed Calculator</string>
+    <string name="notification_text">Send your report</string>
+    <string name="notify_intent_content">tel:0211234567</string>
+    <string name="results_result">result</string>
+    <string name="result_from">from</string>
+    <string name="result_to">to</string>
+    <string name="noUnitDialogTitle">Pick Speeds!</string>
+    <string name="noUnitDialogMsg">You have not picked any conversion units, please pick from the menu.</string>
+    <string name="QuitDialogTitle">Quit?</string>
+    <string name="QuitDialogMessage">Do you really want to quit?</string>
+    <string name="QuitDialogNegative">No</string>
+    <string name="QuitDialogPositive">Yes</string>
+    <string name="lightBreeze">There is a light breeze.</string>
+    <string name="strong_wind">There is a strong wind blowing.</string>
+    <string name="gale">Winds have reached gale force.</string>
+    <string name="storm">Violently high winds, stay inside.</string>
+    <string name="hurricane">This is hurricane weather.</string>
+    <string-array name="unitArray">
+        <item>KM/Hr</item>
+        <item>Knots</item>
+        <item>Beaufort</item>
+    </string-array>
+</resources>

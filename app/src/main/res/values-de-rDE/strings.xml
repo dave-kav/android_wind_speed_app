@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Windgeschwindigkeit Calculator</string>
+    <string name="button">Generieren</string>
+    <string name="selectFrom">Wählen Sie Einheiten zur Umrechnung </string>
+    <string name="selectTo">Wählen Sie Einheiten zu konvertieren </string>
+    <string name="fromLabel">Von</string>
+    <string name="toLabel">Bis</string>
+    <string name="speedLabel">Geschwindigkeit</string>
+    <string name="unitButton">Einheiten</string>
+    <string name="convertButton">Konvertieren</string>
+    <string name="okButton">In Ordnung </string>
+    <string name="speedHint">Geschwindigkeit</string>
+    <string name="resultString">Ergebnis der Umwandlung : </string>
+    <string name="optionsButton">Optionen</string>
+    <string name="optionsDialogTitle">Optionen</string>
+    <string name="optionsDialogMessage">Was möchten Sie jetzt tun? </string>
+    <string name="optionsDialogNeutral">Senden</string>
+    <string name="optionsDialogPositive">Einzelheiten</string>
+    <string name="optionsDialogNegative">Wieder</string>
+    <string name="fromResultText">"Von: "</string>
+    <string name="toResultText">"Bis: "</string>
+    <string name="speedDialogTitle">Nein Geschwindigkeit </string>
+    <string name="speedDialogMessage">Sie haben nicht die Geschwindigkeit eingegeben! </string>
+    <string name="speedDialogButton">In Ordnung</string>
+    <string name="unitDialogTitle">Einheiten</string>
+    <string name="unitDialogMessage">Sie haben die gleichen Geschwindigkeiten für \' Von \' ausgewählt und \' auf \' , ändern Sie bitte ein , um fortzufahren.</string>
+    <string name="unitDialogButton">In Ordnung</string>
+    <string name="notification_title">Windgeschwindigkeit Calculator</string>
+    <string name="notification_text">Senden Sie Ihren Bericht </string>
+    <string name="notify_intent_content">tel:0211234567</string>
+    <string name="results_result">ergebnis</string>
+    <string name="result_from">von</string>
+    <string name="result_to">bis</string>
+    <string name="noUnitDialogTitle">Pflücken Geschwindigkeiten! </string>
+    <string name="noUnitDialogMsg">Sie haben keine Umwandlungseinheiten abgeholt , bitte wählen Sie aus dem Menü. </string>
+    <string name="QuitDialogTitle">Aufzuhören?</string>
+    <string name="QuitDialogMessage">Wollen Sie wirklich beenden? </string>
+    <string name="QuitDialogNegative">Nein</string>
+    <string name="QuitDialogPositive">Ja</string>
+    <string name="lightBreeze">Es gibt eine leichte Brise. </string>
+    <string name="strong_wind">Es besteht ein starker Wind weht. </string>
+    <string name="gale">Winde Sturmstärke erreicht . </string>
+    <string name="storm">Heftig starke Winde , drinnen bleiben . </string>
+    <string name="hurricane">Dies ist Hurrikan Wetter. </string>
+    <string-array name="unitArray">
+        <item>KM/Hr</item>
+        <item>Knots</item>
+        <item>Beaufort</item>
+    </string-array>
+</resources>
